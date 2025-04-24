@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Kieran's Tonic Theme
+description: "A tasty theme for your website!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
